@@ -1,4 +1,4 @@
-# 📰 Multi-Source News Web Scrapers
+# Multi-Source News Web Scrapers
 
 This repository contains **Python web scrapers** to collect news articles from multiple online news sources.  
 
